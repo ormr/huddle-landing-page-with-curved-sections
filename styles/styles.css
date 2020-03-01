@@ -67,6 +67,10 @@ li {
     padding-bottom: 120px;
 }
 
+.front-title {
+    padding-top: 60px;
+}
+
 .front-title h1 {
     text-align: center;
     font-size: 48px;
